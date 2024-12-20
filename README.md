@@ -8,3 +8,4 @@ from sklearn.preprocessing import LabelEncoder as Dimen_ReductEn
 ## Loading Large Scale Data ---##
 Dimen_Reduct = Dimen_ReductPn.read_csv('application_train.csv')
 Dimen_Reduct
+hlzk
